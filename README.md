@@ -1,5 +1,6 @@
 # Social-Network-Analysis
 Tool to analyze mail communication networks 
+Link to the application: https://saivishnu.shinyapps.io/Social_Network_Analysis/
 
 Both the text files have been created by random generation.  
 
